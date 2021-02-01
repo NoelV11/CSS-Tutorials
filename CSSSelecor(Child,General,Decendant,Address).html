@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Website</title>	
+<style type="text/css">
+div p
+{
+background-color:red;	
+color:aquamarine;
+text-decoration:overline;
+text-indent:10px;
+}
+<!-- Descendant Selector=space--> <!-- syntax= div p -->
+<!-- Child Selector= > --> <!-- syntax=div > p -->
+<!-- Address Sibling Selector=+ --> <! -- syntax=div + p -->
+<!-- General Sibling Selector=~ --> <! -- syntax=div ~ p -->
+</style>
+</head>
+<body>
+<div>
+<p>This is a line to be affected</p>	
+<p>What a hassle!</p>
+<p>Wildcard selector=*</p>
+<p>I should'nt have broken the frame</p>
+<p>Which CSS selector have i used?</p>
+Decendent Selector<input type="checkbox">
+Child Selector<input type="checkbox">
+Address Sibling Selector<input type="checkbox">
+General Sibling Selector<input type="checkbox">
+</div>
+<p>This line is not affected by the style tag and the decendent selector</p>
+<div>
+<p>This is an example of Child Selector</p>	
+<p>I think this also works as the second Child Selector</p>
+</div>
+</body>
+</html>
