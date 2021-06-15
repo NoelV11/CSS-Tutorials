@@ -35,7 +35,7 @@ Upon clicking on 'N',we get redirected
 
 ## Improvements:-
 
-I am open towards learning more concepts in DOM,to enhance my Web Programming knowledge.What's included in here is pretty limited.If you notice any disperancies with any features,then I would be willing to correct them
+I am open towards learning more concepts in CSS,to enhance my Web Programming knowledge.What's included in here is pretty limited.If you notice any disperancies with any features,then I would be willing to correct them
 
 The boxes in the chart could individually be filled with a colour,to make it more attractive.Designing isnt exactly my forte
 
