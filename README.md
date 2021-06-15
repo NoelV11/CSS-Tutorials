@@ -14,6 +14,13 @@ I will demonstrate the Kids Alphabet Chart (Kids Alphabet chart.html).In this st
 
 Example- Clicking on 'N' will take you to the word 'Nanny' on Wikipedia.
 
+Initial Appearance of the chart
+
+![11](https://user-images.githubusercontent.com/77625109/122008164-52284b80-cdd6-11eb-97e6-3b2e19f215d9.PNG)
+
+Upon clicking on 'N',we get redirected
+
+![11](https://user-images.githubusercontent.com/77625109/122008442-adf2d480-cdd6-11eb-8aad-2ab461888f4d.PNG)
 
 ->To run on your machine:-
 
@@ -29,6 +36,8 @@ Example- Clicking on 'N' will take you to the word 'Nanny' on Wikipedia.
 ## Improvements:-
 
 I am open towards learning more concepts in DOM,to enhance my Web Programming knowledge.What's included in here is pretty limited
+
+The boxed in the chart could individually be filled with a colour,to make it more attractive.Designing isnt exactly my forte
 
 This repository is open to the public,to collaborate and contribute.Get in touch with me and I would be more than happy 
 
