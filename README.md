@@ -35,9 +35,9 @@ Upon clicking on 'N',we get redirected
 
 ## Improvements:-
 
-I am open towards learning more concepts in DOM,to enhance my Web Programming knowledge.What's included in here is pretty limited
+I am open towards learning more concepts in DOM,to enhance my Web Programming knowledge.What's included in here is pretty limited.If you notice any disperancies with any features,then I would be willing to correct them
 
-The boxed in the chart could individually be filled with a colour,to make it more attractive.Designing isnt exactly my forte
+The boxes in the chart could individually be filled with a colour,to make it more attractive.Designing isnt exactly my forte
 
 This repository is open to the public,to collaborate and contribute.Get in touch with me and I would be more than happy 
 
