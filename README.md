@@ -1,4 +1,7 @@
 # CSS-Tutorials
+![Lines of code](https://img.shields.io/tokei/lines/github/NoelV11/CSS-Tutorials)
+![GitHub top language](https://img.shields.io/github/languages/top/NoelV11/CSS-Tutorials)
+
 CSS is an invaluable concept.which allows programmers to design their website,as they want. CSS offers many tools to make a website more memorable and aesthetically pleasing to look at.
 
 ## Resources Used:-
